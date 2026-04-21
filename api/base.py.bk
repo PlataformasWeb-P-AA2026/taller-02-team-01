@@ -1,0 +1,6 @@
+# api/base.py
+DB_CONFIG = {
+"host": "localhost", # Cambiarás esto a la IP de base1 en la f
+"dbname": "empresa",
+"user": "apiuser"
+"password": "1234"

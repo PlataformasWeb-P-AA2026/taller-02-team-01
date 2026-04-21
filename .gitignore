@@ -1,0 +1,8 @@
+# Ignorar los archivos reales con datos sensibles
+api/base.py
+visualizacion/config.py
+# Ignorar entornos virtuales
+entorno/ venv/
+# Ignorar archivos basura de Python
+_pycache_/
+*. pyc
