@@ -329,6 +329,7 @@ streamlit run app.py --server.address 0.0.0.0
 
 ---
 
+
 Se implementó una arquitectura real separando:
 
 * datos (base1)
@@ -336,3 +337,32 @@ Se implementó una arquitectura real separando:
 * visualización (visualizacion1)
 
 usando flujo profesional con GitHub y despliegue en infraestructura virtual.
+
+# PARTE 9: Evidencias:
+## Captura del funcionamiento de forma LOCAL de la API:
+
+<img width="1911" height="1189" alt="Captura desde 2026-04-21 12-00-07" src="https://github.com/user-attachments/assets/275195f5-d977-477e-9f4e-2965fd516b55" />
+
+
+## Captura de las maquinas virutales creadas:
+
+<img width="814" height="563" alt="multipass" src="https://github.com/user-attachments/assets/7226500c-6dee-4b62-be23-28fb4b83a207" />
+
+## Captura de la base de datos en la maquina virutal base1: 
+
+<img width="1007" height="569" alt="imagen" src="https://github.com/user-attachments/assets/7e9ddb9f-3127-4f92-9c60-d12a3fef99d1" />
+
+## Captura de la conexión de la API con la BD: 
+
+<img width="837" height="598" alt="Captura desde 2026-04-23 11-39-33" src="https://github.com/user-attachments/assets/4a004a35-3897-4588-9981-a1d5da9f3e3e" />
+
+## Captura de la maquina visualizacion1 ejecutando Streamlit:
+
+<img width="815" height="568" alt="Captura desde 2026-04-23 11-40-26" src="https://github.com/user-attachments/assets/6b0f1171-6e0f-4cbd-be44-b4b45487325b" />
+
+## Captura del DASHBOARD con las terminales de las maquinas virtuales:
+
+<img width="1739" height="1046" alt="Captura desde 2026-04-23 11-41-16" src="https://github.com/user-attachments/assets/78c2bd3f-adfa-4b1b-a2b5-a8c27578706b" />
+
+
+
